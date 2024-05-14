@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A43C3E-1FF6-457A-BEF9-DC0FD061BEEC}|Turnos\\Turnos.csproj|c:\\users\\hnola\\documents\\practica banco de occidente\\turnossolucion\\turnos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A43C3E-1FF6-457A-BEF9-DC0FD061BEEC}|Turnos\\Turnos.csproj|solutionrelative:turnos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A43C3E-1FF6-457A-BEF9-DC0FD061BEEC}|Turnos\\Turnos.csproj|C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\turnos\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A43C3E-1FF6-457A-BEF9-DC0FD061BEEC}|Turnos\\Turnos.csproj|solutionrelative:turnos\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\Turnos\\Models\\usuarios.cs",
+              "RelativeDocumentMoniker": "Turnos\\Models\\usuarios.cs",
+              "ToolTip": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\Turnos\\Models\\usuarios.cs",
+              "RelativeToolTip": "Turnos\\Models\\usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:00:40.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\Turnos\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Turnos\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\Turnos\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Turnos\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:05:32.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
