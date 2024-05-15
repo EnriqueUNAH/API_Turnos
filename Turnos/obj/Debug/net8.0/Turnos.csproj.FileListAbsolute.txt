@@ -256,3 +256,4 @@ C:\Users\hnola\Documents\PRACTICA BANCO DE OCCIDENTE\TurnosSolucion\Turnos\obj\D
 C:\Users\hnola\Documents\PRACTICA BANCO DE OCCIDENTE\TurnosSolucion\Turnos\obj\Debug\net8.0\Turnos.pdb
 C:\Users\hnola\Documents\PRACTICA BANCO DE OCCIDENTE\TurnosSolucion\Turnos\obj\Debug\net8.0\Turnos.genruntimeconfig.cache
 C:\Users\hnola\Documents\PRACTICA BANCO DE OCCIDENTE\TurnosSolucion\Turnos\obj\Debug\net8.0\ref\Turnos.dll
+C:\Users\hnola\Documents\PRACTICA BANCO DE OCCIDENTE\TurnosSolucion\Turnos\obj\Debug\net8.0\Turnos.sourcelink.json

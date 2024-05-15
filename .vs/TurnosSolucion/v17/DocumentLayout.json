@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2A43C3E-1FF6-457A-BEF9-DC0FD061BEEC}|Turnos\\Turnos.csproj|c:\\users\\hnola\\documents\\practica banco de occidente\\turnossolucion\\turnos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A43C3E-1FF6-457A-BEF9-DC0FD061BEEC}|Turnos\\Turnos.csproj|solutionrelative:turnos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CC76EB0-100B-4A39-BC7D-7C4A2CF6EEE4}|FrontTurnos\\FrontTurnos.csproj|c:\\users\\hnola\\documents\\practica banco de occidente\\turnossolucion\\frontturnos\\wwwroot\\views\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5CC76EB0-100B-4A39-BC7D-7C4A2CF6EEE4}|FrontTurnos\\FrontTurnos.csproj|solutionrelative:frontturnos\\wwwroot\\views\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2A43C3E-1FF6-457A-BEF9-DC0FD061BEEC}|Turnos\\Turnos.csproj|C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\turnos\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A43C3E-1FF6-457A-BEF9-DC0FD061BEEC}|Turnos\\Turnos.csproj|solutionrelative:turnos\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CC76EB0-100B-4A39-BC7D-7C4A2CF6EEE4}|FrontTurnos\\FrontTurnos.csproj|c:\\users\\hnola\\documents\\practica banco de occidente\\turnossolucion\\frontturnos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CC76EB0-100B-4A39-BC7D-7C4A2CF6EEE4}|FrontTurnos\\FrontTurnos.csproj|solutionrelative:frontturnos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC76EB0-100B-4A39-BC7D-7C4A2CF6EEE4}|FrontTurnos\\FrontTurnos.csproj|c:\\users\\hnola\\documents\\practica banco de occidente\\turnossolucion\\frontturnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC76EB0-100B-4A39-BC7D-7C4A2CF6EEE4}|FrontTurnos\\FrontTurnos.csproj|solutionrelative:frontturnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\Turnos\\Models\\usuarios.cs",
-              "RelativeDocumentMoniker": "Turnos\\Models\\usuarios.cs",
-              "ToolTip": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\Turnos\\Models\\usuarios.cs",
-              "RelativeToolTip": "Turnos\\Models\\usuarios.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:00:40.45Z"
+              "DocumentIndex": 0,
+              "Title": "Cliente.js",
+              "DocumentMoniker": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\FrontTurnos\\wwwroot\\Views\\Cliente.js",
+              "RelativeDocumentMoniker": "FrontTurnos\\wwwroot\\Views\\Cliente.js",
+              "ToolTip": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\FrontTurnos\\wwwroot\\Views\\Cliente.js",
+              "RelativeToolTip": "FrontTurnos\\wwwroot\\Views\\Cliente.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-15T20:13:58.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\Turnos\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "Turnos\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\Turnos\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "Turnos\\Controllers\\UsuariosController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwCEAAAAZAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\FrontTurnos\\Program.cs",
+              "RelativeDocumentMoniker": "FrontTurnos\\Program.cs",
+              "ToolTip": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\FrontTurnos\\Program.cs",
+              "RelativeToolTip": "FrontTurnos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:05:32.536Z",
+              "WhenOpened": "2024-05-15T20:15:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\FrontTurnos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontTurnos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hnola\\Documents\\PRACTICA BANCO DE OCCIDENTE\\TurnosSolucion\\FrontTurnos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FrontTurnos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T20:11:26.143Z",
               "EditorCaption": ""
             }
           ]
